@@ -1,0 +1,16 @@
+# Write a program that tells you the following:
+#
+# Hours in a year. How many hours are in a year?
+# Minutes in a decade. How many minutes are in a decade?
+# Your age in seconds. How many seconds old are you?
+#
+# Define at least the following methods to accomplish these tasks:
+#
+# seconds_in_minutes(1)
+# minutes_in_hours(1)
+# hours_in_days(1)
+# days_in_weeks(1)
+# weeks_in_years(1)
+#
+# If I am 1,111 million seconds old, how old am I?
+# Define an age_from_seconds method
